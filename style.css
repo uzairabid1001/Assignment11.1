@@ -1,0 +1,42 @@
+#container {
+  padding: 20px;
+}
+
+#data {
+  display: flex;
+  justify-content: center;
+  color: #104911;
+}
+#data1 {
+  text-align: center;
+  background-color: #96e072;
+  width: 50%;
+}
+#data2 {
+  text-align: center;
+  vertical-align: middle;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  height: 30px;
+}
+.head {
+  width: 16%;
+  height: 58px;
+}
+.head1 {
+  color: hsl(121, 89%, 24%);
+  width: 16%;
+  height: 50px;
+}
+.colo {
+  background-color: hsl(100, 64%, 66%, 0.6);
+}
+
+button {
+  width: 120px;
+  height: 35px;
+  background-color: #96e072;
+  border: none;
+  border-radius: 5px;
+}
